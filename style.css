@@ -2,8 +2,9 @@ img {
     width: 200px;
 }
 body {
-    text-align: center;
-    font-family: 'Arial';
-    background: mintcream;
-    color: darksalmon;
+    padding-left: 60px;
+    text-align: left;
+    font-family: 'Georgia';
+    background: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
 }
