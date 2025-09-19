@@ -1,1 +1,1 @@
-lenglepengle.github.io/gwahwah
+[open the site](lenglepengle.github.io/gwahwah/)
